@@ -1,6 +1,5 @@
-## Francisco Silva Martín - Junior Developer
-
-## Hi there, I'm Fran Silva - aka Ghost👋 
+## Hi there, I'm Fran Silva - aka Ghost👋
+- 🕒 Junior Developer
 - 🌱 I’m currently learning Java, JS, PHP and Laravel
 - 👯 Currently studying at IES Pablo Picasso (DAM)
 - ☕ Working at FactoryBiz (DUAL)
