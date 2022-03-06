@@ -32,7 +32,7 @@
   [![Discord Badge](https://dcbadge.vercel.app/api/shield/365960442348044288?theme=blurple)](https://discordapp.com/users/365960442348044288) 
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/fransilvamartin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fransilvamartin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilvamartin&layout=compact&langs_count=7&theme=dracula"/>
