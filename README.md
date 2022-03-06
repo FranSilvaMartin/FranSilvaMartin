@@ -2,9 +2,9 @@
 - 🕒 Junior Developer
 - 🌱 I’m currently learning Java, JS, PHP and Laravel
 - 👯 Currently studying at IES Pablo Picasso (DAM)
-- ☕ Working at FactoryBiz (DUAL)
-- ⚡ I love to play video games
-- 🥅 2023 Goals: Learn more about Web Developer
+- ☕ Working at FactoryBiz (Intern)
+- 🎮 Hobbies: VideoGames
+- 🥅 2023 Goals: Learn more about Web Development
 
 ## Languages and Frameworks
 <div style="display: inline_block">
@@ -34,6 +34,6 @@
 
 <div align="left">
   <a href="https://github.com/fransilvamartin">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fransilvamartin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilvamartin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fransilvamartin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilvamartin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
