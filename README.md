@@ -22,10 +22,9 @@
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
 </div>
-
 <br/>
 
-## Contact and Stats
+## Contact and GitHub Stats
 
 <div style="display: inline_block">
  
@@ -34,7 +33,7 @@
   [![Discord Badge](https://dcbadge.vercel.app/api/shield/365960442348044288?theme=blurple)](https://discordapp.com/users/365960442348044288) 
 </div>
 
-<div style="display: inline_block">
+<div align="left">
   <a href="https://github.com/fransilvamartin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fransilvamartin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilvamartin&layout=compact&langs_count=7&theme=dracula"/>
