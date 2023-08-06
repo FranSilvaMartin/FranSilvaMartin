@@ -1,21 +1,22 @@
 ## Hi there, I'm Fran Silva 👋
 - 🕒 Junior Developer
-- 🌱 I’m currently learning Java, JS and PHP 
-- 👯 Currently studying at IES Pablo Picasso (DAM)
+- 🌱 Programming with Java, Laravel, Flutter and JS
+- 👯 Currently working for company
 
 ## Languages and Frameworks
 <div style="display: inline_block">
   <img align="center" alt="Fran-Java" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg">
   <img align="center" alt="Fran-Java" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg">
   <img align="center" alt="Fran-Java" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg">
+  <img align="center" alt="Fran-Java" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg">
+  <img align="center" alt="Fran-Java" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg">
   <img align="center" alt="Fran-Java" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg">
   <img align="center" alt="Fran-Js" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg"/>
 </div>
 
 ## Tools
 <div style="display: inline_block">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg"/>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/eclipse.svg"/>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg"/>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
 </div>
 <br/>
